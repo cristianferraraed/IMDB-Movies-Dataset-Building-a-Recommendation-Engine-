@@ -1,6 +1,5 @@
-# Movie Recommendation Engine
+# IMDB Movies Dataset: Building a Recommendation Engine"
 
-**Complete Video Tutorial:** https://youtu.be/Dw9_BQ60ERU
 
 # Dataset Information
 
